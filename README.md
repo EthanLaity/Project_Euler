@@ -13,3 +13,35 @@ Personally, I use the problems provided by Project Euler during my initial explo
 ## [Problem Archive](https://projecteuler.net/archives)
 
 The problem archive contains all problems provided in the project. There are currently 780+ problems available.
+
+## Progress
+
+*Status* <br>
+🔷 Started <br>
+✅ Completed <br>
+⭕ Return to later
+
+| Problem No.  | Python   | R        | Julia    |
+|:------------:|:--------:|:--------:|:--------:|
+| 001          | ✅       | ✅      |          |
+| 002          | ✅       | ✅      |          |
+| 003          | ✅       | ✅      |          |
+| 004          | ✅       | ✅      |          |
+| 005          | ✅       | ✅      |          |
+| 006          | ✅       | ✅      |          |
+| 007          | ✅       | ✅      |          |
+| 008          | ✅       | ✅      |          |
+| 009          | ✅       | ✅      |          |
+| 010          | ✅       |         |          |
+| 011          |          |          |          |
+| 012          |          |          |          |
+| 013          |          |          |          |
+| 014          |          |          |          |
+| 015          |          |          |          |
+| 016          |          |          |          |
+| 017          |          |          |          |
+| 018          |          |          |          |
+| 019          |          |          |          |
+| 020          |          |          |          |
+| ...          |          |          |          |
+| 752          | 🔷       |         |          |
