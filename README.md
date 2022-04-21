@@ -45,3 +45,4 @@ The problem archive contains all problems provided in the project. There are cur
 | 020          |          |          |          |
 | ...          |          |          |          |
 | 752          | 🔷       |         |          |
+| ...          |          |          |          |
